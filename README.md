@@ -20,6 +20,8 @@ make sure u have perl installed ...use apt-get install perl
 
 4. enjoy
 
+![screenshot from 2019-01-08 12-55-36](https://user-images.githubusercontent.com/38766899/50826474-c5e3e580-134c-11e9-86e4-a4f8df52d90e.png)
+
 
 
 
