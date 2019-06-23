@@ -9,9 +9,9 @@ system "color 0a";
 print"\n";
 print "\t>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>\n";
 print "\t>            Admin CP Finder                     >\n";
-print "\t>         Coded By mr_Anonymous                    >\n";
-print "\t>       LETS DANCE WITH VICTIMS >>>FUCK            >\n";
-print "\t>         TANZANIA BLACK HATS 2018                 >\n";
+print "\t>                                                  >\n";
+print "\t>                                                  >\n";
+print "\t>                                                  >\n";
 print "\t>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>\n";
 print "\n";
 
